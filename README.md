@@ -1,2 +1,2 @@
 
-https://vin-devs.github.io/my-portfolio/
+https://vin-devs.github.io/simple-portfolio/
